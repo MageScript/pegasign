@@ -13,7 +13,7 @@ You have two options for installing Pegasign:
    - The built program will be available in the `dist` directory.
 
 2. **Download Installer:**
-   - Visit the [Releases](https://github.com/your_username/pegasign/releases) section of this repository.
+   - Visit the [Releases](https://github.com/MageScript/pegasign/releases) section of this repository.
    - Download the latest installer compatible with your Windows operating system.
    - Run the installer and follow the installation instructions.
 
