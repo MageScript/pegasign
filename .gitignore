@@ -1,0 +1,8 @@
+__pycache__/
+rd/
+build/
+dist/
+*.spec
+setup.py
+signtool.exe
+$.pfx
