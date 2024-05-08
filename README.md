@@ -24,7 +24,7 @@ You have two options for installing Pegasign:
    - Open pegasign.exe and create a new signature
    - Enable "Activate automated signing"
 
-## Compatibilitys
+## Compatibilities
 Pegasign is designed to work with Python 3.11, but it may also function with other versions of Python. 
 Only works on Windows.
 
