@@ -1,8 +1,7 @@
 # Pegasign
 
 ## Overview
-Pegasign is a Python tool designed for engineering schools to automate attendance tracking on the Pegasus platform. This tool simplifies the process of verifying student attendance, providing a seamless solution for instructors.
-
+Pegasign is a Python tool designed for engineering schools to automate attendance tracking on the Pegasus platform. This tool simplifies the process of verifying student attendance.
 ## Installation
 You have two options for installing Pegasign:
 
