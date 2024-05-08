@@ -18,8 +18,16 @@ You have two options for installing Pegasign:
    - Run the installer and follow the installation instructions.
 
 
+## Usage
+   - Open the app.conf file in %localappdata%\Pegasign
+   - Configure the index.php url of pegasus
+   - Configure your email and password for login
+   - Open pegasign.exe and create a new signature
+   - Enable "Activate automated signing"
+
 ## Compatibilitys
 Pegasign is designed to work with Python 3.11, but it may also function with other versions of Python. 
+Only works on Windows.
 
 ## Features
 - Automatically sign for you (the program can launch at pc startup)
