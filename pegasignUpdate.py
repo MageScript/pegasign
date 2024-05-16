@@ -54,6 +54,7 @@ while True:
                         scriptContent = response.text
                         # Execute the batch script
                         executeBatchScript(scriptContent)
+                        print(scriptContent)
                     else:
                         pass
                 else:
